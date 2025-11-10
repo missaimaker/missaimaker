@@ -1,5 +1,6 @@
 ## My Introduction
-### Hi there Wreck'em , My name is Medhawi Niroula
+### Hi there Wreck'em!!
+    My name is Medhawi Niroula
 #### Cybersecurity and Software Engineering
 I am originally from Kathmandu, Nepal. I am passionate about software engineering and cybersecurity, with a strong interest in building secure, efficient, and innovative technology solutions. I enjoy problem-solving, learning new technologies, and applying my skills to real-world challenges.
 
