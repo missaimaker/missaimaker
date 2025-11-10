@@ -5,8 +5,9 @@ I am originally from Kathmandu, Nepal. I am passionate about software engineerin
 
 Skills: Python/ CSS/ React/ OOP/ API/ Wireshark/ Splunk/ Nmap
 
-- 🔭 I’m currently working on Research 
-- 😄 Pronouns: She/ her 
+-  Currently diving deeper into application security, network defense, and secure coding practices.
+  I aim to combine cybersecurity principles with software development to create secure, scalable solutions.
+-  Pronouns: She/ her 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/missaimaker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nmedhawi/)  
