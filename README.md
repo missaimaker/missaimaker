@@ -3,7 +3,7 @@
 #### Cybersecurity and Software Engineering
 I am originally from Lubbock, Texas. I am passionate about software engineering and cybersecurity, with a strong interest in building secure, efficient, and innovative technology solutions. I enjoy problem-solving, learning new technologies, and applying my skills to real-world challenges.
 
-Skills: Python/ CSS/ React/ OOP/ API/ Wireshark/ Splunk/ Nmap
+Skills: Python/ CSS/ React/ OOP/ API/ Wireshark/ Splunk/ Nmap/ SQL/ C/ C++/ Java
 
 -  Currently diving deeper into application security, network defense, and secure coding practices.
   I aim to combine cybersecurity principles with software development to create secure, scalable solutions.
